@@ -9,3 +9,8 @@ clone
 ## subheader
 
 edited: name/date/year
+
+## local dev
+
+1. app dev
+2. game dev
